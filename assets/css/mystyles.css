@@ -1,0 +1,27 @@
+/*Universal CSS classes*/
+.box {
+	border: 2px dashed white;
+	height: 280px;
+	padding-top: 20px;
+}
+
+body {
+	background: url('http://media.moddb.com/images/groups/1/2/1488/40528_the_lord_of_the_rings.jpg') no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+p {
+	color: black;
+	text-align: center;
+	font-family: 'MedievalSharp', cursive;
+	font-size: 18px;
+}
+
+.box1 {
+	border: 2px dashed white;
+	height: 280px;
+	padding-top: 20px;
+	background: rgba(76, 175, 80, 0.6); /* Green background with 60% opacity */
+}
